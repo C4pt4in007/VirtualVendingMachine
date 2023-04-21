@@ -33,3 +33,5 @@ message should be displayed, and the product not sold. Dollar bills cannot be di
 Make sure the change provided is the smallest number of coins possible.
 
 After each coin has been put in the machine, the total amount entered for the current transaction should be printed.
+
+Assumption - The vending machine is available for public use and anyone can access it so no need to implement authentication/authorization
