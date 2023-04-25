@@ -1,5 +1,5 @@
 # VirtualVendingMachine
-This repository is solution to the below question - 
+This repository is solution to the below question which was asked to me in one of the coding rounds - 
 The vending machine API must maintain available products as well as the price for each of the products in inventory.
 
 Stock never runs out so there is no need to maintain quantity.
